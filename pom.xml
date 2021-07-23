@@ -9,7 +9,7 @@
 		<dependencies>
 			<dependency>
 				<groupId>org.atteo.moonshine</groupId>
-				<artifactId>maven-war-plugin</artifactId>
+				<artifactId>bom</artifactId>
 				<version>1.2</version>
 				<type>pom</type>
 				<scope>import</scope>
